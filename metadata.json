@@ -1,0 +1,5 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "An AI-powered application that forges a unique fantasy character within a detailed player card, complete with a name, class, portrait, backstory, and randomly generated stats like Health and Strength.",
+  "requestFramePermissions": []
+}
